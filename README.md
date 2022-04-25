@@ -1,5 +1,5 @@
 # Unity_ParallaxCamera
-###A parallax camera script with an example scene
+## A parallax camera script with an example scene
 
 Functionalities: 
 - Camera panning using the arrow keys or mouse
